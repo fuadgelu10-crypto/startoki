@@ -1,0 +1,8 @@
+{
+  "name": "VibeTok",
+  "description": "A modern TikTok-style social platform with built-in monetization dashboards and AI-powered advertising tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
